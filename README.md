@@ -1,2 +1,3 @@
 # hello-world
 just login to check
+Everyone knows Jenkins, right? It’s not the fastest or the fanciest, but it’s really easy to start to use and it has a great ecosystem of plugins and add-ons. It is also optimized for easy customization. We have configured Jenkins to build code, create Docker containers (see the next item), run tons of tests, and push to staging/production. It’s a great tool, but there are some issues regarding scaling and performance (which isn’t so unusual). We’ve explored other cool solutions such as Travis and CircleCI, which are both hosted solutions that don’t require any maintenance on our side. For now, however, since we’ve already invested in Jenkins, we’ll continue with it.
